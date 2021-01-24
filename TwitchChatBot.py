@@ -20,7 +20,7 @@ from nltk.corpus import stopwords
 import os
 import subprocess
 
-discord = "https://discord.gg/GgtRDvR"
+discord = "https://discord.gg/"
 instagram = "https://instagram.com/"
 twitchpassword = "Password"
 twitchusername = "Username"
