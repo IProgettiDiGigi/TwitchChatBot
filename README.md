@@ -1,5 +1,7 @@
 # TwitchChatBot
 
-TwitchUserBot aimed to help even newbie users using "Artificial Intelligence" based on phrases tokenization.
+TwitchUserBot is using AI for Phrases Tokenization and uses dictionaries to manage the response that have to be sent, all this without using Twitch Official API.
 
--Gigi
+Why?
+
+Don't Know
